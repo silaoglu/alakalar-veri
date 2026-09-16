@@ -1,0 +1,109 @@
+# hh-m-d — حمد
+
+## Kitâbü'l-Ayn (Mahzûmî / Sâmerrâî, Hilâl, 8 cilt)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "حمد" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve ayn-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): حمد
+- bab: باب الحاء والدال والميم معهما حدم، دحم، مدح، حمد، مستعملات
+- cilt 3, sayfa 187 – cilt 3, sayfa 188
+
+```
+حمد: الحمد: نقيض الذم، يقال: بلوته فأحمدته أي وجدته حميدا محمود الفعال. وحمدته على ذلك، ومنه المحمدة. وحماداك أن تفعل كذا أي: [حمدك]  ، وحماداك أن تنجو من فلان رأسا برأس. والتحميد: كثرة حمد الله بحسن المحامد. وأحمد الرجل: أي: فعل فعلا يحمد عليه، قال الأعشى:
+
+وأحمدت إذ نجيت بالأمس صرمة ... لها غددات واللواحق تلحق
+```
+
+## Mücmelü'l-Lüga (Sultân, Risâle, Beyrut)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "حمد" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve mucmel-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): حمد
+- bab: باب الحاء والميم وما يثلثهما
+- cilt 1, sayfa 249
+
+```
+حمد: الحمد: خلاف الذم، ورجل محمود ومحمد، إذا كثرت خصاله المحمودة.
+
+قال:
+
+إلى الماجد الفرع الجواد المحمد
+
+وبذلك سمي رسول الله صلى الله عليه محمدا.
+
+وتقول: حماداك أن تفعل كذا، أي: غايتك.
+
+وفعلك المحمود منك غير المذموم.
+
+وأحمدت فلانا، إذا وجدته محمودا.
+
+ورجل حمدة: يكثر حمد الأشياء ويزعم فيها أكثر مما فيها.
+```
+
+## Mekâyîsü'l-Lüga (Hârûn, Dâru'l-Fikr, 1399/1979, 6 cilt)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "حمد" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "حمد" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve mekayis-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): حمد
+- bab: [باب الحاء والميم وما يثلثهما]
+- cilt 2, sayfa 99 – cilt 2, sayfa 100
+
+```
+الحاء والميم والدال كلمة واحدة وأصل واحد يدل على خلاف الذم. يقال حمدت فلانا أحمده. ورجل محمود ومحمد، إذا كثرت خصاله المحمودة غير المذمومة. قال الأعشى يمدح النعمان بن المنذر، ويقال إنه فضله بكلمته هذه على سائر من مدحه يومئذ:
+
+إليك أبيت اللعن كان كلالها ... إلى الماجد الفرع الجواد المحمد
+
+ولهذا [الذي] ذكرناه سمي نبينا محمدا صلى الله عليه وآله وسلم. ويقول العرب: حماداك أن تفعل كذا، أي غايتك وفعلك المحمود منك غير المذموم. ويقال أحمدت فلانا، إذا وجدته محمودا، كما يقال أبخلته إذا وجدته بخيلا، وأعجزته [إذا وجدته] عاجزا. وهذا قياس مطرد في سائر الصفات. وأهيجت المكان، إذا وجدته هائجا قد يبس نباته. قال:
+
+وأهيج الخلصاء من ذات البرق
+
+فإن سأل سائل عن قولهم في صوت التهاب النار الحمدة ; قيل له: هذا ليس من الباب ; لأنه من المقلوب وأصله حدمة. وقد ذكرت في موضعها.
+```
+
+## Cemheretü'l-Luga (Ba'lebekkî, Dâru'l-İlm, Beyrut 1987, 3 cilt)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "حمد" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "حمد" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve cemhere-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): حمد
+- bab: ح د م
+- cilt 1, sayfa 504 – cilt 1, sayfa 505
+
+```
+والحمد : خلاف الذم حمدت الرجل أحمده حمدا إذا رأيت منه فعلا محمودا واصطنع إليك يدا تحمده عليها .
+
+وأحمدت الأرض أحمدها إحمادا إذا رضيت سكناها أو مرعاها .
+
+وتقول العرب : حماداك أن تفعل كذا وكذا في معنى قصاراك وهذا باب قد استقصيناه في كتاب الاشتقاق .
+
+واشتقاق اسم محمد صلى الله عليه وسلم كأنه حمد مرة بعد أخرى .
+
+وقد سمت العرب حامدا وحميدا ومحمودا وحمادا وحمدا . | | وإنما سمت رجال من العرب أبناءهم في الجاهلية بمحمد لإخبار الرهبان أنه سيكون نبي يسمى محمدا . وممن سمي في الجاهلية محمدا محمد بن حمران الجعفي وهو الشويعر سماه بهذا الاسم امرؤ القيس بن حجر حيث يقول + ( خفيف ) + :
+
+% أبلغا عني الشويعر أني % % عمد عين قلدتهن حريما %
+
+ومحمد بن بلال بن أحيحة ومحمد بن سفيان بن مجاشع ومحمد بن مسلمة الأنصاري وغيرهم ممن قد ذكرناه في كتاب الاشتقاق .
+
+فأما أحمد فقد سمي به جماعة في الجاهلية واكتنى [ به ] أبو أحمد بن جحش بن رئاب الأسدي لا أعرف غيره .
+
+وسمي يحمد وهو أبو بطن من الأزد ويحمد وهو أبو بطن أيضا .
+```
+
+## Tehzîbü'l-Lüga (Mur'ib, Dâru İhyâi't-Türâs, Beyrut 2001, 15 cilt) — ayrıştırılmadı
+
+"حمد" tam harfli biçiminin düz metin geçiş sayısı: 955
+
+## es-Sıhâh (Attâr, Dâru'l-İlm, 1407/1987, 6 cilt) — ayrıştırılmadı
+
+"حمد" tam harfli biçiminin düz metin geçiş sayısı: 246
+
+## el-Muhkem (Hindâvî, DKİ, Beyrut 2000, 11 cilt) — ayrıştırılmadı
+
+"حمد" tam harfli biçiminin düz metin geçiş sayısı: 313
+
+## el-Muhassas (Ceffâl, Beyrut 1417/1996, 5 cilt) — ayrıştırılmadı
+
+"حمد" tam harfli biçiminin düz metin geçiş sayısı: 400
+
+## Esâsü'l-Belâga (Uyûnu's-Sûd, DKİ, 2 cilt) — ayrıştırılmadı
+
+"حمد" tam harfli biçiminin düz metin geçiş sayısı: 85

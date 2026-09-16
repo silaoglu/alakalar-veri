@@ -1,0 +1,137 @@
+# f-t-n — فتن
+
+## Kitâbü'l-Ayn (Mahzûmî / Sâmerrâî, Hilâl, 8 cilt)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "فتن" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve ayn-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): فتن
+- bab: باب التاء والنون والفاء معهما ن ت ف، ن ف ت، ت ن ف، ف ت ن مستعملات
+- cilt 8, sayfa 126 – cilt 8, sayfa 127
+
+```
+فتن: فتن فلان يفتن فهو فاتن أي مفتتن، والفتون مصدره، وهو اللازم، ويقال: فتنة غيره، وأنشد:
+
+رخيم الكلام قطيع الرجام ... أمسى فؤادي بها فاتنا 
+
+أي مفتتنا. والفتن: إحراق الشيء بالتار كالورق الفتين أي المحترق، وقوله تعالى: يوم هم على النار يفتنون
+
+ ، أي يحرقون. وكان أصحاب النبي- صلى الله عليه و [على] اله وسلم- يفتنون بدينهم، أي يعذبون ليردوا عن دينهم، ومنه قوله تعالى: والفتنة أشد من القتل ، والفتنة: العذاب. والفتنة: أن يفتن الله قوما أي يبتليهم.
+```
+
+## Mücmelü'l-Lüga (Sultân, Risâle, Beyrut)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "فتن" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve mucmel-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): فتن
+- bab: باب الفاء والتاء وما يثلثهما
+- cilt 1, sayfa 710
+
+```
+فتن: الفتنة: الابتلاء والامتحان، (يقال) : فتنت الذهب بالنار: امتحنته (بها) .
+
+والفتان: الشيطان.
+
+(ويقال) : فتنه وأفتنه، وأنكر الأصمعي أفتن.
+
+وقلب فاتن، أي: مفتون.
+
+قال:
+
+رخيم الكلام قطيع القيا
+
+م أمسى فؤادي به فاتنا
+
+(قال) الخليل: الفتن: الإحراق، وورق فتين: محرق، ويقال: للحرة: فتين كأن حجارتها محرقة.
+
+ويقال: العيش فتنان، أي: لونان.
+
+والفتان: جلدة يلبسها الرجل.
+
+ويقال: فتن من الدهر، أي: ضرب منه.
+
+والفتن والفن واحد.
+
+قال:
+
+والدهر فتنان فحلو ومر
+```
+
+## Mekâyîsü'l-Lüga (Hârûn, Dâru'l-Fikr, 1399/1979, 6 cilt)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "فتن" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "فتن" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve mekayis-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): فتن
+- bab: [باب الفاء والتاء وما يثلثهما]
+- cilt 4, sayfa 471 – cilt 4, sayfa 472
+
+```
+الفاء والتاء والنون أصل صحيح يدل على ابتلاء واختبار. من ذلك الفتنة. يقال: فتنت أفتن فتنا. وفتنت الذهب بالنار، إذا امتحنته. وهو مفتون وفتين. والفتان: الشيطان. ويقال: فتنه وأفتنه. وأنكر الأصمعي أفتن. وأنشدوا في أفتن:
+
+
+
+لئن أفتنتني لهي بالأمس أفتنت ... سعيدا فأضحى قد قلى كل مسلم
+
+ويقال: قلب فاتن، أي مفتون. قال:
+
+رخيم الكلام قطيع القيام ... أضحى فؤادي به فاتنا
+
+قال الخليل: الفتن: الإحراق. وشيء فتين: أي محرق. ويقال للحرة: فتين، كأن حجارتها محرقة.
+
+ومما شذ عن هذا الأصل: الفتان: جلدة الرحل. وقولهم العيش فتنان، أي لونان. وهذه يجوز أن تحمل على القياس، لأنه يقول:
+
+والعيش فتنان فحلو ومر
+
+ويمكن أن يختبر ابن آدم بكل واحد منهما.
+```
+
+## Cemheretü'l-Luga (Ba'lebekkî, Dâru'l-İlm, Beyrut 1987, 3 cilt)
+
+_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "فتن" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "فتن" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve cemhere-parsed.jsonl değişmedi. Bkz. görev raporu._
+
+- kök (metinde): فتن
+- bab: ت ف ن
+- cilt 1, sayfa 405
+
+```
+وحرة فتين إذا كانت سوداء . قال أبو عبيدة : قوله جل وعز : @QB@ على النار يفتنون @QE@ أي يحرقون .
+
+وفتنت الرجل أفتنه فتنا وأفتنته إفتانا . واختلف أهل اللغة في فتنت وأفتنت فقال قوم : لا يقال إلا فتنته فهو مفتون وهي اللغة الكثيرة . وقال آخرون : أفتنته فهو مفتن وأبى الأصمعي إلا فتنت ولم يجز أفتنت أصلا وكان يطعن في بيت رؤبة + ( رجز ) + :
+
+
+
+% ودعن من عهدك كل ديدن % %
+
+
+
+% وأنصعن أخدانا لذاك الأخدن % %
+
+
+
+% يعرضن إعراضا لدين المفتن % %
+
+ويقول : هذا موضوع على رؤبة . قال أبو حاتم : فأنشدته + ( طويل ) + :
+
+% لئن فتنتني لهي بالأمس أفتنت % % سعيدا فأمسي قد قلى كل مسلم %
+
+قال : هذا أخذ عن مخنث ولا يثبت .
+```
+
+## Tehzîbü'l-Lüga (Mur'ib, Dâru İhyâi't-Türâs, Beyrut 2001, 15 cilt) — ayrıştırılmadı
+
+"فتن" tam harfli biçiminin düz metin geçiş sayısı: 291
+
+## es-Sıhâh (Attâr, Dâru'l-İlm, 1407/1987, 6 cilt) — ayrıştırılmadı
+
+"فتن" tam harfli biçiminin düz metin geçiş sayısı: 99
+
+## el-Muhkem (Hindâvî, DKİ, Beyrut 2000, 11 cilt) — ayrıştırılmadı
+
+"فتن" tam harfli biçiminin düz metin geçiş sayısı: 167
+
+## el-Muhassas (Ceffâl, Beyrut 1417/1996, 5 cilt) — ayrıştırılmadı
+
+"فتن" tam harfli biçiminin düz metin geçiş sayısı: 138
+
+## Esâsü'l-Belâga (Uyûnu's-Sûd, DKİ, 2 cilt) — ayrıştırılmadı
+
+"فتن" tam harfli biçiminin düz metin geçiş sayısı: 82
