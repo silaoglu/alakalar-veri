@@ -2,8 +2,6 @@
 
 ## Kitâbü'l-Ayn (Mahzûmî / Sâmerrâî, Hilâl, 8 cilt)
 
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "فتن" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve ayn-parsed.jsonl değişmedi. Bkz. görev raporu._
-
 - kök (metinde): فتن
 - bab: باب التاء والنون والفاء معهما ن ت ف، ن ف ت، ت ن ف، ف ت ن مستعملات
 - cilt 8, sayfa 126 – cilt 8, sayfa 127
@@ -15,12 +13,22 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 
 أي مفتتنا. والفتن: إحراق الشيء بالتار كالورق الفتين أي المحترق، وقوله تعالى: يوم هم على النار يفتنون
 
- ، أي يحرقون. وكان أصحاب النبي- صلى الله عليه و [على] اله وسلم- يفتنون بدينهم، أي يعذبون ليردوا عن دينهم، ومنه قوله تعالى: والفتنة أشد من القتل ، والفتنة: العذاب. والفتنة: أن يفتن الله قوما أي يبتليهم.
+ ، أي يحرقون. وكان أصحاب النبي- صلى الله عليه و [على] اله وسلم- يفتنون بدينهم، أي يعذبون ليردوا عن دينهم، ومنه قوله تعالى: والفتنة أشد من القتل ، والفتنة: العذاب. والفتنة: أن يفتن الله قوما أي يبتليهم. 
+
+والفتن: ما يقع بين الناس من الحروب، ويقال في أمر العشق: فتن بها وافتتن بها أي عشقها. والفتان: الشيطان، والفتان جماعة. وقوله تعالى: ما أنتم عليه بفاتنين
+
+ ، أي مضلين، عن الحسن ومجاهد. وفتن وأفتن واحد، قال:
+
+لئن فتنتني لهي بالأمس أفتنت ... سعيدا فأمسى قد قلا كل مسلم 
+
+أي اختارها على كل مسلم، وقول امرىء القيس:
+
+كأني ورحلي والفتان ونمرقي 
+
+أي غاشية الرحل.
 ```
 
 ## Mücmelü'l-Lüga (Sultân, Risâle, Beyrut)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "فتن" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve mucmel-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): فتن
 - bab: باب الفاء والتاء وما يثلثهما
@@ -58,8 +66,6 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 
 ## Mekâyîsü'l-Lüga (Hârûn, Dâru'l-Fikr, 1399/1979, 6 cilt)
 
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "فتن" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "فتن" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve mekayis-parsed.jsonl değişmedi. Bkz. görev raporu._
-
 - kök (metinde): فتن
 - bab: [باب الفاء والتاء وما يثلثهما]
 - cilt 4, sayfa 471 – cilt 4, sayfa 472
@@ -85,8 +91,6 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 ```
 
 ## Cemheretü'l-Luga (Ba'lebekkî, Dâru'l-İlm, Beyrut 1987, 3 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "فتن" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "فتن" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve cemhere-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): فتن
 - bab: ت ف ن

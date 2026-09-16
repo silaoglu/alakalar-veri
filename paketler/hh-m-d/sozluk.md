@@ -2,8 +2,6 @@
 
 ## Kitâbü'l-Ayn (Mahzûmî / Sâmerrâî, Hilâl, 8 cilt)
 
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "حمد" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve ayn-parsed.jsonl değişmedi. Bkz. görev raporu._
-
 - kök (metinde): حمد
 - bab: باب الحاء والدال والميم معهما حدم، دحم، مدح، حمد، مستعملات
 - cilt 3, sayfa 187 – cilt 3, sayfa 188
@@ -11,12 +9,12 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 ```
 حمد: الحمد: نقيض الذم، يقال: بلوته فأحمدته أي وجدته حميدا محمود الفعال. وحمدته على ذلك، ومنه المحمدة. وحماداك أن تفعل كذا أي: [حمدك]  ، وحماداك أن تنجو من فلان رأسا برأس. والتحميد: كثرة حمد الله بحسن المحامد. وأحمد الرجل: أي: فعل فعلا يحمد عليه، قال الأعشى:
 
-وأحمدت إذ نجيت بالأمس صرمة ... لها غددات واللواحق تلحق
+وأحمدت إذ نجيت بالأمس صرمة ... لها غددات واللواحق تلحق 
+
+والحمد: الثناء. وخمسة من الأنبياء ذوو اسمين: أحمد ومحمد صلى الله عليه وعلى آله وسلم- وعيسى والمسيح، وذو الكفل وإلياس، وإسرائيل ويعقوب، ويونس وذو النون عليهم السلام وعلى غيرهم من أنبيائه- . وقولهم: أحمد إليك الله أي: معك، ويقال: إنما هو كقولك: أشكو إليك. وقوله: إني أحمد إليكم غسل الإحليل، أي أرضى لكم ذلك.
 ```
 
 ## Mücmelü'l-Lüga (Sultân, Risâle, Beyrut)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "حمد" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve mucmel-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): حمد
 - bab: باب الحاء والميم وما يثلثهما
@@ -38,11 +36,13 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 وأحمدت فلانا، إذا وجدته محمودا.
 
 ورجل حمدة: يكثر حمد الأشياء ويزعم فيها أكثر مما فيها.
+
+والحمدة:
+
+صوت التهاب النار.
 ```
 
 ## Mekâyîsü'l-Lüga (Hârûn, Dâru'l-Fikr, 1399/1979, 6 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "حمد" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "حمد" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve mekayis-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): حمد
 - bab: [باب الحاء والميم وما يثلثهما]
@@ -61,8 +61,6 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 ```
 
 ## Cemheretü'l-Luga (Ba'lebekkî, Dâru'l-İlm, Beyrut 1987, 3 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "حمد" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "حمد" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve cemhere-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): حمد
 - bab: ح د م

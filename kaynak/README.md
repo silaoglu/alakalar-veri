@@ -48,14 +48,13 @@ girişler. Her satır bir JSON kaydı: `kok`, `bab`, `metin`,
 alanı içindeki karakter konumu).
 
 Ayrıştırma betikleri ana (özel) depoda tutuluyor, bu depoya dahil değil.
-`ayn-parsed.jsonl` için bilinen bir durum: ayırıcıdaki bir normalizasyon
-düzeltmesi (DIACRITICS_RE) sonrası dosya henüz yeniden üretilmedi; ölçülen
-etki +4 kök, 0 kayıp (yalnız harekeli/şeddeli yazılmış birkaç kanonik kök
-etkileniyor).
 
-Kanonik kök listesi (2723 kök) editoryal bir başlangıç listesidir, nötr veri
-değildir — bazı sık geçen kökler bu listede yer almayabilir (bkz.
-`paketler/` altındaki ilgili köklerin `sozluk.md` dosyalarındaki notlar).
+Kanonik kök listesi başlangıçta 2723 kök içeren editoryal bir liste
+(Hawramani/Ayn kök dizini) idi; 2026-09-16'da morfoloji dosyasındaki
+1.642 kökün tamamını (mudaaf kökler için 2 harfli katlama kuralıyla)
+kapsayacak şekilde 3796 köke tamamlandı — bkz. `kaynak/README.md`
+içindeki künye ve ana depodaki CLAUDE.md. Yine de nötr veri değildir:
+Kur'an'da geçmeyen bazı klasik kökler listede yer almayabilir.
 
 ## Kapsam dışı bırakılanlar
 

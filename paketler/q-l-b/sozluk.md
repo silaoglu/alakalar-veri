@@ -2,8 +2,6 @@
 
 ## Kitâbü'l-Ayn (Mahzûmî / Sâmerrâî, Hilâl, 8 cilt)
 
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "قلب" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve ayn-parsed.jsonl değişmedi. Bkz. görev raporu._
-
 - kök (metinde): قلب
 - bab: باب القاف واللام والباء معهما ق ب ل، ل ق ب، ق ل ب، ب ق ل، ب ل ق مستعملات
 - cilt 5, sayfa 169 – cilt 5, sayfa 171
@@ -19,12 +17,16 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 
 وقلوب الشجر: ما رخص فكان رخصا من عروقه التي تقوده، ومن أجوافه، الواحد قلب. وقلب النخلة: شحمتها، وقلب النخلة: شطبة بيضاء تخرج في وسطها كأنها قلب فضة رخص سمي قلبا لبياضه. والقلب من الأسورة: ما كان قلدا واحدا، وتقول: سوار قلب، وفي يدها قلب. والقلب: الحية البيضاء شبهت بالقلب. ولكل شيء قلب، وقلب القرآن يس. والقلب: تحويلك الشيء عن وجهه، وكلام مقلوب، وقلبته فانقلب، وقلبته فتقلب. وقلبت فلانا عن وجهه أي صرفته. والمنقلب: مصيرك إلى الآخرة. والقليب: البئر قبل أن تطوى، ويجمع على قلب، ويقال: هي العادية. والقلوب: الذئب، يمانية، وكذلك القلوب ، ويقال: قلاب، قال: 
 
-أيا جحمتا بكي على أم واهب ... قتيلة قلوب بإحدى المذانب
+أيا جحمتا بكي على أم واهب ... قتيلة قلوب بإحدى المذانب 
+
+والأقلب: من في شفتيه انقلاب، وشفة قلباء . وما به قلبة أي لا داء ولا غائلة. ويقال: قلب عينه وحملاقه عند الوعيد والغضب، قال:
+
+قالب حملاقيه قد كاد يجن 
+
+والقالب دخيل، ويقال: قالب. والقلب الحول: الذي يقلب الأمور، والحول: صاحب حيل.
 ```
 
 ## Mücmelü'l-Lüga (Sultân, Risâle, Beyrut)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "قلب" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve mucmel-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): قلب
 - bab: باب القاف واللام وما يثلثهما
@@ -36,11 +38,65 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 وخالص كل شيء وأشرفه: قلبه.
 
 وعربي قلب.
+
+والقلاب: داء يصيب البعير يشتكي منه قلبه.
+
+وما به قلبة، أي: ليست به علة يقلب لها فينظر إليه.
+
+والقليب: البئر قبل أن تطوى، فإذا طويت فهي الطوي، والقليب: مذكر.
+
+والقليب والقلوب: الذئب.
+
+وقلب النخلة وقلبها.
+
+ما في وسطها والجمع قلبة.
+
+وقلبت الثوب قلبا.
+
+والقلب من الأسورة: ما كان قلبا واحدا.
+
+والقلب: الحية تشبه بالقلب من الحلي.
+
+والقلب: انقلاب الشفة.
+
+وهي قلباء وصاحبها أقلب.
+
+والقلب الحول: الذي يقلب الأمور ويحتال لها.
+
+والقلب: نجم من منازل القمر.
+
+وقلبت الشيء كببته، وقلبته بيدي تقليبا.
+
+وقلبت النخلة: نزعت قلبها.
+
+ويقال: أقلبت الخبزة، إذا نضجت وحان لها أن تقلب.
+
+قلت: القلت: النقرة في الصخرة، والجمع قلات.
+
+وقلت العين [نقرتها] .
+
+وقلت الإبهام، النقرة تحتها.
+
+وقلت الثريدة: الهزمة وسطها.
+
+والمقلات من النوق: أن تضع واحدا ثم لا تحمل بعده.
+
+وامرأة مقلات: ليس لها إلا ولد واحد، ويقال: هي التي لا يعيش لها ولد.
+
+(والقلت: الهلاك) ويقولون: إن المسافر ومتاعه على قلت إلا ما وقى الله جل وعز، يقال عنه: قلت قلتا.
+
+قلح: القلح: صفرة في الأسنان.
+
+ورجل أقلح: والأقلح - فيما يقال -: الجعل.
+
+قلخ: القلخ: هدير الفحل إذا هاج.
+
+ويقولون: القلخ: الحمار.
+
+والقلخ: الفحل إذا هاج، وفيهما نظر.
 ```
 
 ## Mekâyîsü'l-Lüga (Hârûn, Dâru'l-Fikr, 1399/1979, 6 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "قلب" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "قلب" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve mekayis-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): قلب
 - bab: [باب القاف واللام وما يثلثهما]
@@ -65,8 +121,6 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 ```
 
 ## Cemheretü'l-Luga (Ba'lebekkî, Dâru'l-İlm, Beyrut 1987, 3 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "قلب" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "قلب" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve cemhere-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): قلب
 - bab: ب ق ل

@@ -2,23 +2,31 @@
 
 ## Kitâbü'l-Ayn (Mahzûmî / Sâmerrâî, Hilâl, 8 cilt)
 
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "رحم" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve ayn-parsed.jsonl değişmedi. Bkz. görev raporu._
-
 - kök (metinde): رحم
 - bab: باب الحاء والراء والميم معهما ح ر م، ح م ر، م ح ر، م ر ح، ر ح م، ر م ح كلهن مستعملات
-- cilt 3, sayfa 223
+- cilt 3, sayfa 223 – cilt 3, sayfa 224
 
 ```
 رحم: الرحمن الرحيم: اسمان مشتقان من الرحمة، ورحمة الله وسعت كل شيء، (وهو أرحم الراحمين) ، ويقال: ما أقرب رحم فلان إذا كان ذا مرحمة وبر، وقوله- جل وعز- وأقرب رحما
 
 ، أي أبر بالوالدين من القتيل الذي قتله الخضر- عليه السلام-، [وكان الأبوان مسلمين والابن كان كافرا فولد لهما بعد بنت فولدت نبيا، وأنشد:
 
-أحنى وأرحم من أم بواحدها ... رحما وأشجع من ذي لبدة ضاري)
+أحنى وأرحم من أم بواحدها ... رحما وأشجع من ذي لبدة ضاري) 
+
+والمرحمة: الرحمة، [تقول: رحمته أرحمه رحمة ومرحمة، وترحمت عليه، أي قلت: رحمة الله عليه، وقال الله- جل وعز- وتواصوا بالصبر وتواصوا بالمرحمة  أي أوصى بعضهم بعضا برحمة الضعيف والتعطف عليه) . والرحم: بيت منبت الولد ووعاؤه في البطن. وبينهما رحم أي قرابة قريبة، قال الأعشى:
+
+نجفى وتقطع منا الرحم 
+
+[وجمعه الأرحام. وأما الرحم الذي جاء
+
+في الحديث: الرحم معلقة بالعرش، تقول: اللهم صل من وصلني واقطع من قطعني
+
+فالرحم القرابة تجمع بني أب. 
+
+وناقة رحوم: أصابها داء في رحمها فلا تلقح، تقول: قد رحمت رحما، وكذلك المرأة رحمت ورحمت إذا اشتكت رحمها] » .
 ```
 
 ## Mücmelü'l-Lüga (Sultân, Risâle, Beyrut)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu iki sözlükte giriş sınırı kanonik listeye bakılarak belirleniyor; "رحم" listede olmadığı için otomatik ayırıcı bunu ayrı bir giriş saymıyordu. Elle çıkarma için betiğin bir kopyasında sınır tespiti kanonik listeden bağımsızlaştırıldı (her "kelime:" başlıklı paragraf kendi başına giriş sayıldı, sahte-sınır ve işaret temizleme mantığı aynı kaldı) — ayrı bir dizinde çalıştırıldı, kalıcı kokler.json ve mucmel-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): رحم
 - bab: باب الراء والحاء وما يثلثهما
@@ -50,11 +58,25 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 وكان يقرأ: {واقرب رحما} .
 
 ويقال: إن العرب تسمي مكة: أم رحم.
+
+رحا: الرحى: معروفة، ورحي الحرب: حومتها.
+
+ورحى السحاب: مستداره.
+
+ورحى القوم: سيدهم.
+
+والرحى: سعدانة البعير.
+
+قال الخليل: الرحى والرحيان وثلاث أرح، والأرحاء الكثيرة، والأرحية: (كأنه) جمع الجمع.
+
+والأرحاء: الأضراس، ويقال للقطعة من الأرض الناشزة على ما حولها مثل النجفة: رحى.
+
+وناس يقولون: رحى ورحوان [بالواو] .
+
+قالوا: وتقول العرب: رحت الحية ترحو، إذا استدارت.
 ```
 
 ## Mekâyîsü'l-Lüga (Hârûn, Dâru'l-Fikr, 1399/1979, 6 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "رحم" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "رحم" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve mekayis-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): رحم
 - bab: [باب الراء والحاء وما يثلثهما]
@@ -69,8 +91,6 @@ _Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu
 ```
 
 ## Cemheretü'l-Luga (Ba'lebekkî, Dâru'l-İlm, Beyrut 1987, 3 cilt)
-
-_Not: bu giriş otomatik ayırıcının normal (kalıcı) çıktısında yok. Bu sözlükte giriş sınırı kendi biçimiyle (kanonik listeden bağımsız) zaten belirleniyor; yalnız "رحم" kanonik listede olmadığı için normal ayırıcı çıktısında görünmüyordu. Aynı betik, "رحم" geçici olarak eklenmiş bir kanonik liste kopyasıyla ayrı bir dizinde yeniden çalıştırıldı; kalıcı kokler.json ve cemhere-parsed.jsonl değişmedi. Bkz. görev raporu._
 
 - kök (metinde): رحم
 - bab: ح ر م
