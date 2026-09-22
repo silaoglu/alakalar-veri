@@ -6,7 +6,7 @@ kök paketleri — yorum, çeviri veya özet yok.
 ## Yapı
 
 - `kaynak/` — Kur'an metni (Tanzil), morfoloji (Quranic Arabic Corpus),
-  dokuz klasik sözlüğün ham metni, dördünün kök kök ayrıştırılmış çıktısı.
+  dokuz klasik sözlüğün ham metni, beşinin kök kök ayrıştırılmış çıktısı.
   Künye ve lisans bilgisi: `kaynak/README.md`.
 - `paketler/<kok>/` — her kök için `sozluk.md` (sözlük girişleri),
   `ayetler.tsv` (Kur'an'daki geçişleri, morfolojik künyeyle), `sayim.md`

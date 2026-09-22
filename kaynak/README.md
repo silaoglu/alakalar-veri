@@ -21,7 +21,7 @@ kendi başlığındaki telif bloğu korunmuştur.
 
 ## Klasik sözlükler
 
-OpenITI mARkdown biçiminde, ayrıştırılmadan (ayrıştırılan dört eser hariç,
+OpenITI mARkdown biçiminde, ayrıştırılmadan (ayrıştırılan beş eser hariç,
 aşağıya bkz.) taşınmış ham metinler. Künye:
 
 | dosya | eser | neşir |
@@ -42,19 +42,21 @@ değil) — sayfa numaraları iki baskıda farklıdır.
 ## Ayrıştırılmış çıktılar
 
 `ayn-parsed.jsonl`, `mucmel-parsed.jsonl`, `mekayis-parsed.jsonl`,
-`cemhere-parsed.jsonl` — yukarıdaki dört ham metinden, kök kök ayrılmış
+`cemhere-parsed.jsonl`, `muhkem-parsed.jsonl` — yukarıdaki beş ham metinden,
+kök kök ayrılmış
 girişler. Her satır bir JSON kaydı: `kok`, `bab`, `metin`,
 `sayfa_isaretleri` (`{konum, cilt, sayfa}` dizisi — `konum`, `metin`
 alanı içindeki karakter konumu).
 
 Ayrıştırma betikleri ana (özel) depoda tutuluyor, bu depoya dahil değil.
 
-Kanonik kök listesi başlangıçta 2723 kök içeren editoryal bir liste
-(Hawramani/Ayn kök dizini) idi; 2026-09-16'da morfoloji dosyasındaki
-1.642 kökün tamamını (mudaaf kökler için 2 harfli katlama kuralıyla)
-kapsayacak şekilde 3796 köke tamamlandı — bkz. `kaynak/README.md`
-içindeki künye ve ana depodaki CLAUDE.md. Yine de nötr veri değildir:
-Kur'an'da geçmeyen bazı klasik kökler listede yer almayabilir.
+Ayrıştırma hiçbir kök listesine göre eleme yapmaz (2026-09-20'den beri):
+sözlükte madde başlığı biçimine uyan her başlık bir giriş olarak yazılır.
+`kok` alanı metindeki başlık yazımıdır; yalnız bir yazım normalizasyon
+listesinde karşılığı varsa o listedeki yazım kullanılır. Bu yüzden
+dosyalarda Kur'an'da geçmeyen klasik kökler de vardır. Aynı metin birden
+fazla köke ait olduğunda (örn. "بلوي" başlığı hem بلو hem بلي) her kök
+için ayrı satır yazılır ve `ortakKokler` alanıyla işaretlenir.
 
 ## Kapsam dışı bırakılanlar
 
