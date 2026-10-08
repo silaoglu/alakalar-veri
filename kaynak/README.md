@@ -46,7 +46,9 @@ değil) — sayfa numaraları iki baskıda farklıdır.
 kök kök ayrılmış
 girişler. Her satır bir JSON kaydı: `kok`, `bab`, `metin`,
 `sayfa_isaretleri` (`{konum, cilt, sayfa}` dizisi — `konum`, `metin`
-alanı içindeki karakter konumu).
+alanı içindeki karakter konumu; metnin o konumdan sonrası o sayfadır,
+`konum: 0` girişin başladığı sayfadır. Kaynaktaki işaret sayfa sonudur,
+etiketler bu anlama göre kaydırılmıştır.)
 
 Ayrıştırma betikleri ana (özel) depoda tutuluyor, bu depoya dahil değil.
 
