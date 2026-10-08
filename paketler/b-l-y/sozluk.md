@@ -4,7 +4,7 @@
 
 - kök (metinde): بلي
 - bab: باب اللام والباء و (وا يء) معهما ل وب، ول ب، ب ول، وب ل، ب ل و، ب ل ي، ي ل ب، ل ب ي مستعملات
-- cilt 8, sayfa 338 – cilt 8, sayfa 339
+- cilt 8, sayfa 339 – cilt 8, sayfa 340
 
 ```
 بلي: حي، والنسبة إليه: بلوي. وناقة بلو سفر من مثل نضو، وقد أبلاها السفر، قال :
@@ -26,7 +26,7 @@ bu sözlükte giriş bulunamadı.
 
 - kök (metinde): بلي
 - bab: [باب الباء واللام وما يثلثهما في الثلاثي]
-- cilt 1, sayfa 291 – cilt 1, sayfa 294
+- cilt 1, sayfa 292 – cilt 1, sayfa 295
 - _Not: illetli/birleşik başlıktan ("بلوي") geliyor, aynı metin şu köklerin hepsinde tekrarlanıyor: بلو, بلي._
 
 ```
@@ -103,19 +103,17 @@ bu sözlükte giriş bulunamadı.
 
 - kök (metinde): بلي
 - bab: ب ل ي
-- cilt 1, sayfa 380
+- cilt 1, sayfa 381
 
 ```
 بلي : قبيلة من العرب ينسب إليها بلوي .
-
-وبيل : اسم نهر معروف . ولهذا مواضع في الاعتلال تراها إن شاء الله تعالى . |
 ```
 
 ## el-Muhkem (Hindâvî, DKİ, Beyrut 2000, 11 cilt)
 
 - kök (metinde): بلي
 - bab: اللام والباء والياء
-- cilt 10, sayfa 421 – cilt 10, sayfa 422
+- cilt 10, sayfa 422 – cilt 10, sayfa 423
 
 ```
 بلي الثوب بلى وبلاء وأبلاه هو قال
